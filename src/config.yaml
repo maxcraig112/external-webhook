@@ -1,0 +1,4 @@
+payloadMapping:
+  - pathName: "example/path1"
+    project: "text"
+    gsmSecretRef: "test"
